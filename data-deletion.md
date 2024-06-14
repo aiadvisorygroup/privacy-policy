@@ -1,7 +1,5 @@
 # Data Deletion Policy
 
-**Effective Date: 6/13/2024**
-
 ## Introduction
 
 We outline how your data is used in our app and is deleted. 
